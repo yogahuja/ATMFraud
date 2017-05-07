@@ -1,0 +1,30 @@
+{
+  "name": "openwhisk-darkvisionapp",
+  "version": "1.0.0",
+  "scripts": {},
+  "dependencies": {
+    "async": "2.1.4",
+    "dotenv": "4.0.0",
+    "node-zip": "1.1.1",
+    "openwhisk": "3.2.1",
+    "request": "2.79.0",
+    "yargs": "6.6.0"
+  },
+  "devDependencies": {
+    "eslint": "3.9.1",
+    "eslint-config-airbnb": "13.0.0",
+    "eslint-plugin-import": "2.2.0",
+    "eslint-plugin-jsx-a11y": "2.2.3",
+    "eslint-plugin-promise": "3.3.2",
+    "eslint-plugin-react": "6.6.0"
+  },
+  "author": "IBM",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/IBM-Bluemix/openwhisk-darkvisionapp/"
+  },
+  "engines": {
+    "node": ">=6.9.1"
+  }
+}
